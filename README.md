@@ -23,28 +23,29 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (August 2017 to November 2017)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+- Curious and passionate about code. [I regularly go to meet-ups such as LRUG (London Ruby User Group)]
+- Fast, independent learner [Have developed my own projects such as:]
+- Great collaborator [Have collaborated on projects such as:]
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Cardinal Newman College, Hove (September 2012 to July 2014)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Biology, Chemistry, Maths (A-Level) and Psychology (AS)
+- A, B, B and B
 
 #### Any other qualifications
 
-## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+## Experience
+**Queen Mary Students' Union** (September 2016 to August 2017)
+*Black, Minority and Ethnic Representative*
+**Newcross Healthcare Solutions** (January 2015 to September 2015)    
+*Healthcare Assistant*  
+**Barchester Healthcare** (June 2014 to November 2014)   
+*Healthcare Assistant*  
