@@ -12,10 +12,10 @@ Through graduation, I have gained a foundation in adapting my approach to learn 
 
 #### Emotional Intelligence
 
-In every corner of our lives, having a sound level of emotional intelligence is key. I believe that in this skill lies the often-overlooked secret to collaborating with others. 
+In every corner of our lives, having a sound level of emotional intelligence is key. In this skill lies the often-overlooked secret to collaborating with others. 
 <br><br>
 In my years of experience in the healthcare sector, I developed a high-level of empathy for my clients in my duty of care whilst maintaining professional standards in discussing senstive topics with co-workers.
-It was evident to me that this skill was a lifelong skill that could only be improved upon with time. 
+It was evident to me that empathy was a lifelong skill that could only be improved upon with time. 
 <br><br> 
 I further developed this skill by attending workshops with the Chief Joy Officer at Makers Academy. 
 The workshops centered around developing our minds to process stress, accepting our faults to morph them to strengths and handling uncomfortable conversations professionally.
@@ -42,11 +42,11 @@ Of course, we had our wins but in our losses, I always made it a priority to mot
 
 #### Social Media Analysis
 
-I thoroughly believe that social media has become a tool which will continue to shape our world and can be utilised for good.
+Social media has become a tool which will continue to shape our world and can be utilised for good.
 <br><br>
-During university, I was responsible for maintaining social media pages and groups on Facebook for a multitude of student groups, namely the Biomedial and related sciences student body.
+During university, I was responsible for maintaining social media pages and groups on Facebook for a multitude of student groups, namely the Biomedical and related sciences student body.
 Creating engaging posts for the target population came very naturally to me. 
-Through creating posts regularly, dealing with social issues and recommendation of the group via word-of-mouth, the group always increased in number (with hundreds of members within the first month of set-up)
+Through creating posts regularly, dealing with social issues and recommendation of the group via word-of-mouth, the group always increased in number (with over a hundred members within the first month of set-up)
 
 
 <a name="projects"></a>
@@ -63,15 +63,14 @@ Through creating posts regularly, dealing with social issues and recommendation 
 
 #### Makers Academy (August 2017 to November 2017) 
 
-- Object Oriented Programming, Test-Driven Development, Model-View-Controller
-- Agile/XP
+- Object Oriented Programming, Test-Driven Development, Model-View-Controller application creation
+- Applying Extreme Programming values into my work when appropriate
 - I learnt and built applications with various languages, libraries and frameworks such as: 
   Ruby, Rails, JavaScript, HTML, CSS, Node.js, Git, RSpec 
 
 #### Queen Mary, University of London (September 2015 - July 2017)
 
 - Certificate of Higher Education
-
 
 <a id="achievements"></a>
 ## Achievements
@@ -89,6 +88,7 @@ Through creating posts regularly, dealing with social issues and recommendation 
 - Creating personal projects and tools
 - Playing basketball and keeping fit
 - Volunteering my skills ad hoc for charitable causes
+- Learning Spanish
 
 <a id="experience"></a>
 ## Experience
