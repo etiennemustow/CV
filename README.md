@@ -2,9 +2,9 @@
 
 [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Achievements](#achievements) | [Hobbies](#hobbies) | [Experience](#experience) |
  
-As of writing, I am a graduate of a highly selective, 12-week intensive software development programme at Makers Academy.
+I am a graduate of a highly selective, 12-week intensive software development programme at Makers Academy.
 Through graduation, I have gained a foundation in adapting my approach to learn new languages, implementing Test and Behaviour-Driven Development, and utilising the Extreme Programming (XP) framework.
-<br><br>I am seeking a full-stack junior software developer role in an environment which offers challenging day-to-day work and an environment in which employees care, genuinely, about the progress of their peers.
+<br><br>I am seeking a full-stack junior software developer role in an environment which offers challenging day-to-day work and a company culture where employees care, genuinely, about the progress of their peers.
 
 <a id="skills"></a>
 ## Skills
@@ -19,10 +19,10 @@ In any role I've taken, voluntary or paid
 
 #### Problem Solving
 
-Mathematics has long been one of my favourite subjects in school. It's due to this passion, that I have developed a logical and creative approach to solving real-world issues (outside of the world of mental arithmetic).
+Mathematics has long been one of my favourite subjects in school. It's due to this passion, that I have developed a logical and creative approach to solving every-day issues.
 <br>
-In college, I was hand-picked by GCSE teachers to help provide 1-to-1 in-class tutoring with their students, going over any issue the student raised.
-Through listening to their worries and engaging them in a way that inspired them to believe in their intellect, I was able to help them solve their issues. (Always satisfying due to the immediate change in coutenance)
+In college, I was hand-picked by GCSE teachers to help provide 1-to-1 in-class tutoring with their students.
+Through listening to the students' worries and engaging them in a way that inspired them to believe in their intellect, I was able to help them solve their issues.
 I have further developed my problem solving skills during my time at Makers Academy. Constantly analysing stack traces for different errors of various frameworks has matured my eye for spotting and fixing faults.
 
 
@@ -31,7 +31,7 @@ I have further developed my problem solving skills during my time at Makers Acad
 I enjoy being tasked with leading ventures, whether it be accepting a nomination to captain a sports team or being asked to take the reins on a particular part of a technical project.
 I have embraced the motto of "Always lead by example", in that I believe a great leader isn't just one that excels when things are going right, but one who knows how to control a situation with sincerity and humility when things go wrong.
 <br>
-In university, I was nominated to be captain of the Afro-Caribbean Society (ACS) Basketball Team. Of course, we had our wins but in our losses, I always made it a priority to motivate and encourage my team to compete to the best of their abilities.
+In university, I was nominated to be captain of the Afro-Caribbean Society Basketball Team. Of course, we had our wins but in our losses, I always made it a priority to motivate and encourage my team to compete to the best of their abilities.
 
 
 #### Social Media Analysis
@@ -79,7 +79,7 @@ Creating engaging posts for the target population came very naturally to me and 
 ## Hobbies
 
 - Reading up about technical concepts via articles and books
-- Creating personal projects or tools
+- Creating personal projects and tools
 - Playing basketball and keeping fit
 - Volunteering my skills ad hoc for charitable causes
 
