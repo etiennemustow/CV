@@ -11,7 +11,7 @@ Through graduation, I have gained a foundation in adapting my approach to learn 
 
 #### Emotional Intelligence
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+In any role I've taken, voluntary or paid
 
 - Healthcare Assistance
 - How it's developed over time (initial domiciliary care through to care home to agency to other settings)
@@ -22,7 +22,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 Mathematics has long been one of my favourite subjects in school. It's due to this passion, that I have developed a logical and creative approach to solving real-world issues (outside of the world of mental arithmetic).
 <br>
 In college, I was hand-picked by GCSE teachers to help provide 1-to-1 in-class tutoring with their students, going over any issue the student raised.
-Through listening to their worries and engaging them in a way that didn't condescend their intellect, I was able to help them solve their issues. (Always satisfying due to the immediate change in coutenance)
+Through listening to their worries and engaging them in a way that inspired them to believe in their intellect, I was able to help them solve their issues. (Always satisfying due to the immediate change in coutenance)
 I have further developed my problem solving skills during my time at Makers Academy. Constantly analysing stack traces for different errors of various frameworks has matured my eye for spotting and fixing faults.
 
 
