@@ -31,15 +31,15 @@ I have further developed my problem solving skills during my time at Makers Acad
 I enjoy being tasked with leading ventures, whether it be accepting a nomination to captain a sports team or being asked to take the reins on a particular part of a technical project.
 I have embraced the motto of "Always lead by example", in that I believe a great leader isn't just one that excels when things are going right, but one who knows how to control a situation with sincerity and humility when things go wrong.
 <br>
-In university, I was nominated to be captain of the Afro-Caribbean Society (ACS) Basketball Team. Of course, we had our wins but in our losses, I always made it a priority to motivate and encourage my team to fight until the end and never dwell on a mistake.
+In university, I was nominated to be captain of the Afro-Caribbean Society (ACS) Basketball Team. Of course, we had our wins but in our losses, I always made it a priority to motivate and encourage my team to compete to the best of their abilities.
 
 
 #### Social Media Analysis
 
-Although, I believe social media has its bad sides, I throughly believe that it is a tool which will continue to shape our world and can be utilised for good.
+I throughly believe that social media has become a tool which will continue to shape our world and can be utilised for good.
 <br>
 During university, I was responsible for maintaining social media pages and groups on Facebook for a multitude of student groups. 
-Creating engaging posts for the target population came very naturally to me and through creating posts regularly, many of the pages increased in hits dramatically.
+Creating engaging posts for the target population came very naturally to me and through creating posts regularly, many of the pages increased in hits dramatically (give percentage)
 
 
 <a name="projects"></a>
@@ -47,7 +47,7 @@ Creating engaging posts for the target population came very naturally to me and 
 
 |Project | Description | Technologies Used |
 |--------|--------|--------|
-|[Layman Brothers](https://github.com/gijoeuk/laymanbrothers)| A collaborative effort at creating a banking web application with a completely new tech stack in which I contributed extensively | Java, Spring Boot, Maven, PostgreSQL, Spring JPA and Thymeleaf. Tested with: jUnit and Selenium |
+|[Layman Brothers](https://github.com/gijoeuk/laymanbrothers)| A collaborative effort at creating a banking web application with a completely new tech stack in which I contributed extensively towards front-end development and fixing errors in back-end logic | Java, Spring Boot, Maven, PostgreSQL, Spring JPA and Thymeleaf. Tested with: jUnit and Selenium |
 |[Takeaway Challenge](https://github.com/etiennemustow/takeaway-challenge) | A console-interactive programme for ordering food from a takeaway | Ruby. Tested with: RSpec
 |[Notes App](https://github.com/etiennemustow/notes-app)| A web application for creating, storing and viewing notes | Javascript, Node.js
 
@@ -58,8 +58,8 @@ Creating engaging posts for the target population came very naturally to me and 
 
 - Object Oriented Programming, Test-Driven Development, Model-View-Controller
 - Agile/XP
-- I was exposed to various languages, libraries and frameworks such as: 
-  Ruby, Rails, JavaScript, HTML, CSS, Node.js, Git, RSpec
+- I learnt and built applications with various languages, libraries and frameworks such as: 
+  Ruby, Rails, JavaScript, HTML, CSS, Node.js, Git, RSpec 
 
 #### Queen Mary, University of London (September 2015 - July 2017)
 
