@@ -2,6 +2,7 @@
 
 [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Achievements](#achievements) | [Hobbies](#hobbies) | [Experience](#experience) |
  
+
 I am a graduate of a highly selective, 12-week intensive software development programme at Makers Academy.
 Through graduation, I have gained a foundation in adapting my approach to learn new languages, implementing Test and Behaviour-Driven Development, and utilising the Extreme Programming (XP) framework.
 <br><br>I am seeking a full-stack junior software developer role in an environment which offers challenging day-to-day work and a company culture where employees care, genuinely, about the progress of their peers.
@@ -11,16 +12,20 @@ Through graduation, I have gained a foundation in adapting my approach to learn 
 
 #### Emotional Intelligence
 
-In any role I've taken, voluntary or paid
-
-- Healthcare Assistance
-- How it's developed over time (initial domiciliary care through to care home to agency to other settings)
+In every corner of our lives, having a sound level of emotional intelligence is key. I believe that in this skill lies the often-overlooked secret to collaborating with others. 
+<br><br>
+In my years of experience in the healthcare sector, I developed a high-level of empathy for my clients in my duty of care whilst maintaining professional standards in discussing senstive topics with co-workers.
+It was evident to me that this skill was a lifelong skill that could only be improved upon with time. 
+<br><br> 
+I further developed this skill by attending workshops with the Chief Joy Officer at Makers Academy. 
+The workshops centered around developing our minds to process stress, accepting our faults to morph them to strengths and handling uncomfortable conversations professionally.
+I feel as though I've indefinitely bettered myself as a human being and established a unique quality in myself that can be applied to any situation.
 
 
 #### Problem Solving
 
 Mathematics has long been one of my favourite subjects in school. It's due to this passion, that I have developed a logical and creative approach to solving every-day issues.
-<br>
+<br><br>
 In college, I was hand-picked by GCSE teachers to help provide 1-to-1 in-class tutoring with their students.
 Through listening to the students' worries and engaging them in a way that inspired them to believe in their intellect, I was able to help them solve their issues.
 I have further developed my problem solving skills during my time at Makers Academy. Constantly analysing stack traces for different errors of various frameworks has matured my eye for spotting and fixing faults.
@@ -30,16 +35,18 @@ I have further developed my problem solving skills during my time at Makers Acad
 
 I enjoy being tasked with leading ventures, whether it be accepting a nomination to captain a sports team or being asked to take the reins on a particular part of a technical project.
 I have embraced the motto of "Always lead by example", in that I believe a great leader isn't just one that excels when things are going right, but one who knows how to control a situation with sincerity and humility when things go wrong.
-<br>
-In university, I was nominated to be captain of the Afro-Caribbean Society Basketball Team. Of course, we had our wins but in our losses, I always made it a priority to motivate and encourage my team to compete to the best of their abilities.
+<br><br>
+In university, I was nominated to be captain of the Afro-Caribbean Society Basketball Team. 
+Of course, we had our wins but in our losses, I always made it a priority to motivate and encourage my team to compete to the best of their abilities.
 
 
 #### Social Media Analysis
 
-I throughly believe that social media has become a tool which will continue to shape our world and can be utilised for good.
-<br>
-During university, I was responsible for maintaining social media pages and groups on Facebook for a multitude of student groups. 
-Creating engaging posts for the target population came very naturally to me and through creating posts regularly, many of the pages increased in hits dramatically (give percentage)
+I thoroughly believe that social media has become a tool which will continue to shape our world and can be utilised for good.
+<br><br>
+During university, I was responsible for maintaining social media pages and groups on Facebook for a multitude of student groups, namely the Biomedial and related sciences student body.
+Creating engaging posts for the target population came very naturally to me. 
+Through creating posts regularly, dealing with social issues and recommendation of the group via word-of-mouth, the group always increased in number (with hundreds of members within the first month of set-up)
 
 
 <a name="projects"></a>
@@ -47,9 +54,9 @@ Creating engaging posts for the target population came very naturally to me and 
 
 |Project | Description | Technologies Used |
 |--------|--------|--------|
-|[Layman Brothers](https://github.com/gijoeuk/laymanbrothers)| A collaborative effort at creating a banking web application with a completely new tech stack in which I contributed extensively towards front-end development and fixing errors in back-end logic | Java, Spring Boot, Maven, PostgreSQL, Spring JPA and Thymeleaf. Tested with: jUnit and Selenium |
+|[Layman Brothers](https://github.com/gijoeuk/laymanbrothers)| A collaborative effort at creating a banking web application with a completely new tech stack in which I contributed extensively towards front-end development and fixing errors in back-end logic | Java, HTML & CSS, Spring Boot, Maven, PostgreSQL, Spring JPA and Thymeleaf. Tested with: jUnit and Selenium |
 |[Takeaway Challenge](https://github.com/etiennemustow/takeaway-challenge) | A console-interactive programme for ordering food from a takeaway | Ruby. Tested with: RSpec
-|[Notes App](https://github.com/etiennemustow/notes-app)| A web application for creating, storing and viewing notes | Javascript, Node.js
+|[Notes App](https://github.com/etiennemustow/notes-app)| A web application for creating, storing and viewing notes | Javascript, Node.js, HTML & CSS
 
 <a id="education"></a>
 ## Education
@@ -69,7 +76,7 @@ Creating engaging posts for the target population came very naturally to me and 
 <a id="achievements"></a>
 ## Achievements
 
-- Queen Mary Skills Award 
+- Queen Mary Skills Award (Project Management, Leadership, Networking)
 - Member of the Team GB U-19 Baseball Team
 - Community Sports Leadership Award
 - Competitive dance team member of Queen Mary Dance Company
