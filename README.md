@@ -56,7 +56,6 @@ Through creating posts regularly, dealing with social issues and recommendation 
 |--------|--------|--------|
 |[Layman Brothers](https://github.com/gijoeuk/laymanbrothers)| A collaborative effort at creating a banking web application with a completely new tech stack in which I contributed extensively towards front-end development and fixing errors in back-end logic | Java, HTML & CSS, Spring Boot, Maven, PostgreSQL, Spring JPA and Thymeleaf. Tested with: jUnit and Selenium |
 |[Takeaway Challenge](https://github.com/etiennemustow/takeaway-challenge) | A console-interactive programme for ordering food from a takeaway | Ruby. Tested with: RSpec
-|[Chitter Challenge](https://github.com/etiennemustow/chitter-challenge)| A Twitter-based web application for creating, viewing and persisting peeps to a database | Ruby, Sinatra
 |[Notes App](https://github.com/etiennemustow/notes-app)| A web application for creating, storing and viewing notes | Javascript, Node.js, HTML & CSS
 
 <a id="education"></a>
@@ -66,6 +65,7 @@ Through creating posts regularly, dealing with social issues and recommendation 
 
 - Object Oriented Programming, Test-Driven Development, Model-View-Controller application creation
 - Applying Extreme Programming values into my work when appropriate
+- Using Domain Object Models and Class-Responsibility Cards in planning
 - I learnt and built applications with various languages, libraries and frameworks such as: 
   Ruby, Rails, JavaScript, HTML, CSS, Node.js
 - Testing frameworks, such as:
