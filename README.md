@@ -19,7 +19,7 @@ It was evident to me that empathy was a lifelong skill that could only be improv
 <br><br> 
 I further developed this skill by attending workshops with the Chief Joy Officer at Makers Academy. 
 The workshops centered around developing our minds to process stress, accepting our faults to morph them to strengths and handling uncomfortable conversations professionally.
-I feel as though I've indefinitely bettered myself as a human being and established a unique quality in myself that can be applied to any situation.
+I know I've indefinitely bettered myself as a human being and established a unique quality in myself that can be applied to any situation.
 
 
 #### Problem Solving
@@ -34,7 +34,7 @@ I have further developed my problem solving skills during my time at Makers Acad
 #### Leadership
 
 I enjoy being tasked with leading ventures, whether it be accepting a nomination to captain a sports team or being asked to take the reins on a particular part of a technical project.
-I have embraced the motto of "Always lead by example", in that I believe a great leader isn't just one that excels when things are going right, but one who knows how to control a situation with sincerity and humility when things go wrong.
+I have embraced the motto of "Always lead by example", in that a great leader isn't just one that excels when things are going right, but one who knows how to control a situation with sincerity and humility when things go wrong.
 <br><br>
 In university, I was nominated to be captain of the Afro-Caribbean Society Basketball Team. 
 Of course, we had our wins but in our losses, I always made it a priority to motivate and encourage my team to compete to the best of their abilities.
@@ -56,6 +56,7 @@ Through creating posts regularly, dealing with social issues and recommendation 
 |--------|--------|--------|
 |[Layman Brothers](https://github.com/gijoeuk/laymanbrothers)| A collaborative effort at creating a banking web application with a completely new tech stack in which I contributed extensively towards front-end development and fixing errors in back-end logic | Java, HTML & CSS, Spring Boot, Maven, PostgreSQL, Spring JPA and Thymeleaf. Tested with: jUnit and Selenium |
 |[Takeaway Challenge](https://github.com/etiennemustow/takeaway-challenge) | A console-interactive programme for ordering food from a takeaway | Ruby. Tested with: RSpec
+|[Chitter Challenge](https://github.com/etiennemustow/chitter-challenge)| A Twitter-based web application for creating, viewing and persisting peeps to a database | Javascript, Node.js, HTML & CSS
 |[Notes App](https://github.com/etiennemustow/notes-app)| A web application for creating, storing and viewing notes | Javascript, Node.js, HTML & CSS
 
 <a id="education"></a>
@@ -66,7 +67,11 @@ Through creating posts regularly, dealing with social issues and recommendation 
 - Object Oriented Programming, Test-Driven Development, Model-View-Controller application creation
 - Applying Extreme Programming values into my work when appropriate
 - I learnt and built applications with various languages, libraries and frameworks such as: 
-  Ruby, Rails, JavaScript, HTML, CSS, Node.js, Git, RSpec 
+  Ruby, Rails, JavaScript, HTML, CSS, Node.js
+- Testing frameworks, such as:
+  RSpec, jUnit
+- Querying databases, such as PostgreSQL
+- Utilising the version control system, Git
 
 #### Queen Mary, University of London (September 2015 - July 2017)
 
@@ -84,11 +89,11 @@ Through creating posts regularly, dealing with social issues and recommendation 
 <a name="hobbies"></a>
 ## Hobbies
 
-- Reading up about technical concepts via articles and books
+- Reading up about technical concepts via articles and books (ocassionally, writing articles [here](https://medium.com/@etiennemustow))
 - Creating personal projects and tools
 - Playing basketball and keeping fit
 - Volunteering my skills ad hoc for charitable causes
-- Learning Spanish
+- Learning Spanish and Japanese
 
 <a id="experience"></a>
 ## Experience
