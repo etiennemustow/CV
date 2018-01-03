@@ -2,7 +2,7 @@
 
  [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Hobbies](#hobbies) | [Experience](#experience) |
 
-I'm a highly driven and ambitious ex-basketball and baseball player who's passionate about computer programming.
+I'm a highly driven and ambitious ex-basketball and baseball player who's passionate about computer systems engineering. I'm particularly interested in data science and machine learning.
 
 I am seeking a **full-stack junior software developer** role although I'm open to localising to a **back or front-end role** if necessary for the company. I thrive best in an environment which offers **challenging day-to-day work** and a company culture where employees push each other to contribute the best of themselves. I'm not a static person, it's essential to be dynamic and adaptable and so I'd like to undertake work in a setting where progress is encouraged.
 
@@ -23,7 +23,7 @@ I am seeking a **full-stack junior software developer** role although I'm open t
 
 From my time at Makers Academy and onwards, I have been developing with OOP languages like Ruby and Java. I have also worked with JavaScript and I'm keen to explore more JS frameworks (particularly, React)
 
-As of writing, I'm particularly interested in coding with Node.js, data science and machine learning.
+As of writing, I'm particularly interested in coding with Node.js and reading/experimenting with data science and machine learning.
 
 
 **Modern Foreign Languages**
@@ -50,7 +50,7 @@ In university, I was nominated to be captain of the Afro-Caribbean Society Baske
 <a id="education"></a>
 ## Education
 
-#### Harvard University (January 2018 - Present)
+#### Harvard University (December 2017 - January 2018)
 
 - Introduction to Computer Science (CS50)
 
