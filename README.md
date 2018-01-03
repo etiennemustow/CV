@@ -11,7 +11,7 @@ I am seeking a **full-stack junior software developer** role although I'm open t
 
 |Project | Description | Technologies Used |
 |--------|--------|--------|
-| [Cryptocomparison website(https://github.com/neroshan12/crypto-website)] | A web app written in full-stack ES6 JavaScript for comparing cryptocurrencies | Node.js, Express.js |
+| [Cryptocomparison website](https://github.com/neroshan12/crypto-website) | A web app written in full-stack ES6 JavaScript for comparing cryptocurrencies | Node.js, Express.js |
 |[Layman Brothers](https://github.com/etiennemustow/laymanbrothers)| A collaborative effort at creating a banking web application with a completely new tech stack in which I contributed extensively towards front-end development and fixing errors in back-end logic | Java, HTML & CSS, Spring Boot, Maven, PostgreSQL, Spring JPA and Thymeleaf. Tested with: jUnit and Selenium |
 |[Takeaway Challenge](https://github.com/etiennemustow/takeaway-challenge) | A console-interactive programme for ordering food from a takeaway | Ruby. Tested with: RSpec
 |[Notes App](https://github.com/etiennemustow/notes-app)| A web application for creating, storing and viewing notes | Javascript, Node.js, HTML & CSS
