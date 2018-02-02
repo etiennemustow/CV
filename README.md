@@ -43,7 +43,7 @@ Through listening to the students' worries and engaging them in a way that inspi
 
 **Leadership and self-starter**
 
-In university, I was nominated to be captain of the Afro-Caribbean Society Basketball Team. I always made it a priority to motivate and encourage my team to compete to the best of their abilities. My drive and commitment also earned me a place on the Team GB U-19 Baseball Squad.
+In university, I was nominated to be captain of the Afro-Caribbean Society Basketball Team. I always made it a priority to motivate and encourage my team to compete to the best of their abilities. My drive and commitment also earned me a place on the Great Britain National Baseball Team for the Under-19 age group.
 
 
 <a id="education"></a>
