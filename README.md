@@ -11,7 +11,6 @@ I am seeking a **full-stack junior software developer** role although I'm open t
 
 |Project | Description | Technologies Used |
 |--------|--------|--------|
-| [Cryptocomparison website](https://github.com/neroshan12/crypto-website) | A web app written in full-stack ES6 JavaScript for comparing cryptocurrencies | Node.js, Express.js |
 |[Layman Brothers](https://github.com/etiennemustow/laymanbrothers)| A collaborative effort at creating a banking web application with a completely new tech stack in which I contributed extensively towards front-end development and fixing errors in back-end logic | Java, HTML & CSS, Spring Boot, Maven, PostgreSQL, Spring JPA and Thymeleaf. Tested with: jUnit and Selenium |
 |[Takeaway Challenge](https://github.com/etiennemustow/takeaway-challenge) | A console-interactive programme for ordering food from a takeaway | Ruby. Tested with: RSpec
 |[Notes App](https://github.com/etiennemustow/notes-application)| A web application for creating, storing and viewing notes | Javascript, Node.js, HTML & CSS
@@ -21,9 +20,9 @@ I am seeking a **full-stack junior software developer** role although I'm open t
 
 **Programming**
 
-From my time at Makers Academy and onwards, I have been developing with OOP languages like Ruby and Java. I have also worked with JavaScript and I'm keen to explore more JS frameworks (particularly, React)
+From my time at Makers Academy and onwards, I have been developing with OOP languages like Ruby and Java. I have also worked with JavaScript frameworks (most notably, Node.js)
 
-As of writing, I'm particularly interested in coding with Node.js and reading/experimenting with data science and machine learning.
+As of writing, I'm particularly interested in improving my event-based programming with Node.js. I also enjoy reading about Blockchain development. I took it upon myself to familiarise myself with [Satoshi Nakamoto's White Paper](https://bitcoin.org/bitcoin.pdf) over the Christmas period.
 
 
 **Modern Foreign Languages**
@@ -59,14 +58,15 @@ In university, I was nominated to be captain of the Afro-Caribbean Society Baske
 - OOP, TDD, BDD, MVC
 - Extreme Programming and Agile values
 - Using DOMs and CRCs in planning
-- Ruby, Rails, HTML, CSS, Node.js
-- RSpec, Jasmine, jUnit
-- PostgreSQL,
+- Ruby, Rails, HTML, CSS, Node.js, Java
+- RSpec, Jasmine
+- jUnit, Selenium, Spring Boot, Maven
+- PostgreSQL
 - Git
 
 #### Queen Mary, University of London (September 2015 - July 2017)
 
-- Certificate of Higher Education
+- Biomedical Sciences (Certificate of Higher Education)
 
 <a name="hobbies"></a>
 
@@ -85,3 +85,5 @@ In university, I was nominated to be captain of the Afro-Caribbean Society Baske
 *Healthcare Assistant*  
 **Barchester Healthcare** (June 2014 to November 2014)   
 *Healthcare Assistant*
+**University of Calabar, Nigeria** (July 2013 - August 2013)
+*Gastroenterology Understudy*
