@@ -1,6 +1,6 @@
 # Etienne Mustow
 
- [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Hobbies](#hobbies) | [Experience](#experience) |
+ [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Volunteering](#volunteering)| [Hobbies](#hobbies) | [Experience](#experience) |
 
 I'm a highly driven and ambitious ex-basketball and baseball player who's passionate about computer systems engineering. I'm particularly interested in data science and machine learning.
 
@@ -67,6 +67,17 @@ In university, I was nominated to be captain of the Afro-Caribbean Society Baske
 #### Queen Mary, University of London (September 2015 - July 2017)
 
 - Biomedical Sciences (Certificate of Higher Education)
+
+<a name="volunteering"></a>
+## Volunteering
+
+**AfroTech Fest**
+
+I volunteered my time at the inaugural [AfroTech Fest](https://afroetechfest.co.uk) - a festival championing widening participation of Afro-Caribbean minorities in the technology sector.
+
+**Codebar**
+
+I am a registered [Codebar](https://codebar.io) mentor and part of both the London and Brighton chapters
 
 <a name="hobbies"></a>
 
