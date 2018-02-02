@@ -11,7 +11,7 @@ I am seeking a **full-stack junior software developer** role although I'm open t
 
 |Project | Description | Technologies Used |
 |--------|--------|--------|
-|[Layman Brothers](https://github.com/etiennemustow/laymanbrothers)| Online Banking Application. A completely new tech stack to anything taught at Makers Academy. I took the lead for front-end interaction of HTML/CSS/Thymeleaf and fixed errors in Java back-end logic that interfered with jUnit tests | Java, HTML & CSS, Spring Boot, Maven, PostgreSQL, Spring JPA and Thymeleaf. Tested with: jUnit and Selenium |
+|[Layman Brothers](https://github.com/etiennemustow/laymanbrothers)| Online Banking Application completed in 2-week sprint without any prior Java knowledge. I took the lead for front-end interaction of HTML/CSS/Thymeleaf and fixed errors in Java back-end logic that interfered with jUnit tests | Java, HTML & CSS, Spring Boot, Maven, PostgreSQL, Spring JPA and Thymeleaf. Tested with: jUnit and Selenium |
 |[Takeaway Challenge](https://github.com/etiennemustow/takeaway-challenge) | A console-interactive programme for ordering food from a takeaway | Ruby. Tested with: RSpec
 |[Notes App](https://github.com/etiennemustow/notes-application)| A web application for creating, storing and viewing notes | Javascript, Node.js, HTML & CSS
 
