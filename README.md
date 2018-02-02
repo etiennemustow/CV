@@ -94,5 +94,3 @@ I am a registered [Codebar](https://codebar.io) mentor and part of both the Lond
 
 **Newcross Healthcare Solutions** (January 2014 to September 2016)    
 *Healthcare Assistant*  
-**University of Calabar, Nigeria** (July 2013 - August 2013)
-*Gastroenterology Understudy*
