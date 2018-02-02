@@ -73,7 +73,7 @@ In university, I was nominated to be captain of the Afro-Caribbean Society Baske
 
 **AfroTech Fest**
 
-I volunteered my time at the inaugural [AfroTech Fest](https://afroetechfest.co.uk) - a festival championing widening participation of Afro-Caribbean minorities in the technology sector.
+I volunteered my time at the inaugural [AfroTech Fest](https://afrotechfest.co.uk) - a festival championing widening participation of Afro-Caribbean minorities in the technology sector.
 
 **Codebar**
 
